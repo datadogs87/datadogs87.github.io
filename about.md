@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-
-### About
-
 This website serves as a demonstration of the basic capabilities of [GitHub Pages](https://pages.github.com/) and a way to navigate several projects that demonstrate the use of and integration between several useful technologies.
 1. GitHub
 2. Rstudio
