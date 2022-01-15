@@ -8,6 +8,5 @@
 layout: home
 ---
 
-## Test
 
-This is a test
+This is the home page
