@@ -3,15 +3,20 @@ layout: page
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### About
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website serves as a demonstration of the basic capabilities of [GitHub Pages](https://pages.github.com/) and a way to navigate several projects that demonstrate the use of and integration between several useful technologies.
+1. GitHub
+2. Rstudio
+3. Rmarkdown
+4. Shiny
+5. shinyapps.io
 
+### Sources
+
+This website is hosted on [GitHub Pages](https://pages.github.com/).  The markdown is available here at [GitHub](https://github.com/).
+
+This website is built using the [minima](https://github.com/jekyll/minima) theme of [jekyll][jekyll-organization].
 
 [jekyll-organization]: https://github.com/jekyll
